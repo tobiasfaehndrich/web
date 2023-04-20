@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/web/static/css/main.6faed127.css",
-    "main.js": "/web/static/js/main.c83361bb.js",
+    "main.js": "/web/static/js/main.41b57ecf.js",
     "static/media/img-2.jpg": "/web/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
     "static/media/sbqmi_portrait.jpg": "/web/static/media/sbqmi_portrait.7f0ce1bc93f7aa56efda.jpg",
     "static/media/img-1.jpg": "/web/static/media/img-1.53f4843759ebec256cb9.jpg",
     "static/media/img-8.jpg": "/web/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
     "index.html": "/web/index.html",
     "main.6faed127.css.map": "/web/static/css/main.6faed127.css.map",
-    "main.c83361bb.js.map": "/web/static/js/main.c83361bb.js.map"
+    "main.41b57ecf.js.map": "/web/static/js/main.41b57ecf.js.map"
   },
   "entrypoints": [
     "static/css/main.6faed127.css",
-    "static/js/main.c83361bb.js"
+    "static/js/main.41b57ecf.js"
   ]
 }
